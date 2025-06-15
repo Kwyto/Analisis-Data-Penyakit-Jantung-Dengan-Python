@@ -15,7 +15,7 @@ st.title('Proyek Akhir: Analisis Data jantung :heart:')
 st.header('Nama:') # Ini adalah header utama
 st.write('M Arief Wiguna | 231712084')
 st.write('Muhammad Bagas Dwi Syahputra | 231712074')
-st.write('Naufal Alfatih Amriansyah | 231712105')
+st.write('Damai Serafinus Nainggolan | 231712089')
 
 st.header('Proyek Akhir: Analisis Data jantung :heart:')
 st.subheader('1. Distribusi Kolesterol Berdasarkan Kategori Usia')
