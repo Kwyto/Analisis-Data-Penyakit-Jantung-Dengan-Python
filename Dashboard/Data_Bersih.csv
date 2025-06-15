@@ -1,0 +1,919 @@
+Age,Gender,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,ST_Slope,HeartDisease,KategoriUsia
+40,M,ATA,140,289,0,Normal,172,No,0.0,Up,0,Paruh Baya
+49,F,NAP,160,180,0,Normal,156,No,1.0,Flat,1,Paruh Baya
+37,M,ATA,130,283,0,ST,98,No,0.0,Up,0,Muda
+48,F,ASY,138,214,0,Normal,108,Yes,1.5,Flat,1,Paruh Baya
+54,M,NAP,150,195,0,Normal,122,No,0.0,Up,0,Paruh Baya
+39,M,NAP,120,339,0,Normal,170,No,0.0,Up,0,Muda
+45,F,ATA,130,237,0,Normal,170,No,0.0,Up,0,Paruh Baya
+54,M,ATA,110,208,0,Normal,142,No,0.0,Up,0,Paruh Baya
+37,M,ASY,140,207,0,Normal,130,Yes,1.5,Flat,1,Muda
+48,F,ATA,120,284,0,Normal,120,No,0.0,Up,0,Paruh Baya
+37,F,NAP,130,211,0,Normal,142,No,0.0,Up,0,Muda
+58,M,ATA,136,164,0,ST,99,Yes,2.0,Flat,1,Paruh Baya
+39,M,ATA,120,204,0,Normal,145,No,0.0,Up,0,Muda
+49,M,ASY,140,234,0,Normal,140,Yes,1.0,Flat,1,Paruh Baya
+42,F,NAP,115,211,0,ST,137,No,0.0,Up,0,Paruh Baya
+54,F,ATA,120,273,0,Normal,150,No,1.5,Flat,0,Paruh Baya
+38,M,ASY,110,196,0,Normal,166,No,0.0,Flat,1,Muda
+43,F,ATA,120,201,0,Normal,165,No,0.0,Up,0,Paruh Baya
+60,M,ASY,100,248,0,Normal,125,No,1.0,Flat,1,Lansia
+36,M,ATA,120,267,0,Normal,160,No,3.0,Flat,1,Muda
+43,F,TA,100,223,0,Normal,142,No,0.0,Up,0,Paruh Baya
+44,M,ATA,120,184,0,Normal,142,No,1.0,Flat,0,Paruh Baya
+49,F,ATA,124,201,0,Normal,164,No,0.0,Up,0,Paruh Baya
+44,M,ATA,150,288,0,Normal,150,Yes,3.0,Flat,1,Paruh Baya
+40,M,NAP,130,215,0,Normal,138,No,0.0,Up,0,Paruh Baya
+36,M,NAP,130,209,0,Normal,178,No,0.0,Up,0,Muda
+53,M,ASY,124,260,0,ST,112,Yes,3.0,Flat,0,Paruh Baya
+52,M,ATA,120,284,0,Normal,118,No,0.0,Up,0,Paruh Baya
+53,F,ATA,113,468,0,Normal,127,No,0.0,Up,0,Paruh Baya
+51,M,ATA,125,188,0,Normal,145,No,0.0,Up,0,Paruh Baya
+53,M,NAP,145,518,0,Normal,130,No,0.0,Flat,1,Paruh Baya
+56,M,NAP,130,167,0,Normal,114,No,0.0,Up,0,Paruh Baya
+54,M,ASY,125,224,0,Normal,122,No,2.0,Flat,1,Paruh Baya
+41,M,ASY,130,172,0,ST,130,No,2.0,Flat,1,Paruh Baya
+43,F,ATA,150,186,0,Normal,154,No,0.0,Up,0,Paruh Baya
+32,M,ATA,125,254,0,Normal,155,No,0.0,Up,0,Muda
+65,M,ASY,140,306,1,Normal,87,Yes,1.5,Flat,1,Lansia
+41,F,ATA,110,250,0,ST,142,No,0.0,Up,0,Paruh Baya
+48,F,ATA,120,177,1,ST,148,No,0.0,Up,0,Paruh Baya
+48,F,ASY,150,227,0,Normal,130,Yes,1.0,Flat,0,Paruh Baya
+54,F,ATA,150,230,0,Normal,130,No,0.0,Up,0,Paruh Baya
+54,F,NAP,130,294,0,ST,100,Yes,0.0,Flat,1,Paruh Baya
+35,M,ATA,150,264,0,Normal,168,No,0.0,Up,0,Muda
+52,M,NAP,140,259,0,ST,170,No,0.0,Up,0,Paruh Baya
+43,M,ASY,120,175,0,Normal,120,Yes,1.0,Flat,1,Paruh Baya
+59,M,NAP,130,318,0,Normal,120,Yes,1.0,Flat,0,Paruh Baya
+37,M,ASY,120,223,0,Normal,168,No,0.0,Up,0,Muda
+50,M,ATA,140,216,0,Normal,170,No,0.0,Up,0,Paruh Baya
+36,M,NAP,112,340,0,Normal,184,No,1.0,Flat,0,Muda
+41,M,ASY,110,289,0,Normal,170,No,0.0,Flat,1,Paruh Baya
+50,M,ASY,130,233,0,Normal,121,Yes,2.0,Flat,1,Paruh Baya
+47,F,ASY,120,205,0,Normal,98,Yes,2.0,Flat,1,Paruh Baya
+45,M,ATA,140,224,1,Normal,122,No,0.0,Up,0,Paruh Baya
+41,F,ATA,130,245,0,Normal,150,No,0.0,Up,0,Paruh Baya
+52,F,ASY,130,180,0,Normal,140,Yes,1.5,Flat,0,Paruh Baya
+51,F,ATA,160,194,0,Normal,170,No,0.0,Up,0,Paruh Baya
+31,M,ASY,120,270,0,Normal,153,Yes,1.5,Flat,1,Muda
+58,M,NAP,130,213,0,ST,140,No,0.0,Flat,1,Paruh Baya
+54,M,ASY,150,365,0,ST,134,No,1.0,Up,0,Paruh Baya
+52,M,ASY,112,342,0,ST,96,Yes,1.0,Flat,1,Paruh Baya
+49,M,ATA,100,253,0,Normal,174,No,0.0,Up,0,Paruh Baya
+43,F,NAP,150,254,0,Normal,175,No,0.0,Up,0,Paruh Baya
+45,M,ASY,140,224,0,Normal,144,No,0.0,Up,0,Paruh Baya
+46,M,ASY,120,277,0,Normal,125,Yes,1.0,Flat,1,Paruh Baya
+50,F,ATA,110,202,0,Normal,145,No,0.0,Up,0,Paruh Baya
+37,F,ATA,120,260,0,Normal,130,No,0.0,Up,0,Muda
+45,F,ASY,132,297,0,Normal,144,No,0.0,Up,0,Paruh Baya
+32,M,ATA,110,225,0,Normal,184,No,0.0,Up,0,Muda
+52,M,ASY,160,246,0,ST,82,Yes,4.0,Flat,1,Paruh Baya
+44,M,ASY,150,412,0,Normal,170,No,0.0,Up,0,Paruh Baya
+57,M,ATA,140,265,0,ST,145,Yes,1.0,Flat,1,Paruh Baya
+44,M,ATA,130,215,0,Normal,135,No,0.0,Up,0,Paruh Baya
+52,M,ASY,120,182,0,Normal,150,No,0.0,Flat,1,Paruh Baya
+44,F,ASY,120,218,0,ST,115,No,0.0,Up,0,Paruh Baya
+55,M,ASY,140,268,0,Normal,128,Yes,1.5,Flat,1,Paruh Baya
+46,M,NAP,150,163,0,Normal,116,No,0.0,Up,0,Paruh Baya
+32,M,ASY,118,529,0,Normal,130,No,0.0,Flat,1,Muda
+35,F,ASY,140,167,0,Normal,150,No,0.0,Up,0,Muda
+52,M,ATA,140,100,0,Normal,138,Yes,0.0,Up,0,Paruh Baya
+49,M,ASY,130,206,0,Normal,170,No,0.0,Flat,1,Paruh Baya
+55,M,NAP,110,277,0,Normal,160,No,0.0,Up,0,Paruh Baya
+54,M,ATA,120,238,0,Normal,154,No,0.0,Up,0,Paruh Baya
+63,M,ASY,150,223,0,Normal,115,No,0.0,Flat,1,Lansia
+52,M,ATA,160,196,0,Normal,165,No,0.0,Up,0,Paruh Baya
+56,M,ASY,150,213,1,Normal,125,Yes,1.0,Flat,1,Paruh Baya
+66,M,ASY,140,139,0,Normal,94,Yes,1.0,Flat,1,Lansia
+65,M,ASY,170,263,1,Normal,112,Yes,2.0,Flat,1,Lansia
+53,F,ATA,140,216,0,Normal,142,Yes,2.0,Flat,0,Paruh Baya
+43,M,TA,120,291,0,ST,155,No,0.0,Flat,1,Paruh Baya
+55,M,ASY,140,229,0,Normal,110,Yes,0.5,Flat,0,Paruh Baya
+49,F,ATA,110,208,0,Normal,160,No,0.0,Up,0,Paruh Baya
+39,M,ASY,130,307,0,Normal,140,No,0.0,Up,0,Muda
+52,F,ATA,120,210,0,Normal,148,No,0.0,Up,0,Paruh Baya
+48,M,ASY,160,329,0,Normal,92,Yes,1.5,Flat,1,Paruh Baya
+39,F,NAP,110,182,0,ST,180,No,0.0,Up,0,Muda
+58,M,ASY,130,263,0,Normal,140,Yes,2.0,Flat,1,Paruh Baya
+43,M,ATA,142,207,0,Normal,138,No,0.0,Up,0,Paruh Baya
+39,M,NAP,160,147,1,Normal,160,No,0.0,Up,0,Muda
+56,M,ASY,120,85,0,Normal,140,No,0.0,Up,0,Paruh Baya
+41,M,ATA,125,269,0,Normal,144,No,0.0,Up,0,Paruh Baya
+65,M,ASY,130,275,0,ST,115,Yes,1.0,Flat,1,Lansia
+51,M,ASY,130,179,0,Normal,100,No,0.0,Up,0,Paruh Baya
+40,F,ASY,150,392,0,Normal,130,No,2.0,Flat,1,Paruh Baya
+40,M,ASY,120,466,1,Normal,152,Yes,1.0,Flat,1,Paruh Baya
+46,M,ASY,118,186,0,Normal,124,No,0.0,Flat,1,Paruh Baya
+57,M,ATA,140,260,1,Normal,140,No,0.0,Up,0,Paruh Baya
+48,F,ASY,120,254,0,ST,110,No,0.0,Up,0,Paruh Baya
+34,M,ATA,150,214,0,ST,168,No,0.0,Up,0,Muda
+50,M,ASY,140,129,0,Normal,135,No,0.0,Up,0,Paruh Baya
+39,M,ATA,190,241,0,Normal,106,No,0.0,Up,0,Muda
+59,F,ATA,130,188,0,Normal,124,No,1.0,Flat,0,Paruh Baya
+57,M,ASY,150,255,0,Normal,92,Yes,3.0,Flat,1,Paruh Baya
+47,M,ASY,140,276,1,Normal,125,Yes,0.0,Up,0,Paruh Baya
+38,M,ATA,140,297,0,Normal,150,No,0.0,Up,0,Muda
+49,F,NAP,130,207,0,ST,135,No,0.0,Up,0,Paruh Baya
+33,F,ASY,100,246,0,Normal,150,Yes,1.0,Flat,1,Muda
+38,M,ASY,120,282,0,Normal,170,No,0.0,Flat,1,Muda
+59,F,ASY,130,338,1,ST,130,Yes,1.5,Flat,1,Paruh Baya
+35,F,TA,120,160,0,ST,185,No,0.0,Up,0,Muda
+34,M,TA,140,156,0,Normal,180,No,0.0,Flat,1,Muda
+47,F,NAP,135,248,1,Normal,170,No,0.0,Flat,1,Paruh Baya
+52,F,NAP,125,272,0,Normal,139,No,0.0,Up,0,Paruh Baya
+46,M,ASY,110,240,0,ST,140,No,0.0,Up,0,Paruh Baya
+58,F,ATA,180,393,0,Normal,110,Yes,1.0,Flat,1,Paruh Baya
+58,M,ATA,130,230,0,Normal,150,No,0.0,Up,0,Paruh Baya
+54,M,ATA,120,246,0,Normal,110,No,0.0,Up,0,Paruh Baya
+34,F,ATA,130,161,0,Normal,190,No,0.0,Up,0,Muda
+48,F,ASY,108,163,0,Normal,175,No,2.0,Up,0,Paruh Baya
+54,F,ATA,120,230,1,Normal,140,No,0.0,Up,0,Paruh Baya
+42,M,NAP,120,228,0,Normal,152,Yes,1.5,Flat,0,Paruh Baya
+38,M,NAP,145,292,0,Normal,130,No,0.0,Up,0,Muda
+46,M,ASY,110,202,0,Normal,150,Yes,0.0,Flat,1,Paruh Baya
+56,M,ASY,170,388,0,ST,122,Yes,2.0,Flat,1,Paruh Baya
+56,M,ASY,150,230,0,ST,124,Yes,1.5,Flat,1,Paruh Baya
+61,F,ASY,130,294,0,ST,120,Yes,1.0,Flat,0,Lansia
+49,M,NAP,115,265,0,Normal,175,No,0.0,Flat,1,Paruh Baya
+43,F,ATA,120,215,0,ST,175,No,0.0,Up,0,Paruh Baya
+39,M,ATA,120,241,0,ST,146,No,2.0,Up,0,Muda
+54,M,ASY,140,166,0,Normal,118,Yes,0.0,Flat,1,Paruh Baya
+43,M,ASY,150,247,0,Normal,130,Yes,2.0,Flat,1,Paruh Baya
+52,M,ASY,160,331,0,Normal,94,Yes,2.5,Flat,1,Paruh Baya
+50,M,ASY,140,341,0,ST,125,Yes,2.5,Flat,1,Paruh Baya
+47,M,ASY,160,291,0,ST,158,Yes,3.0,Flat,1,Paruh Baya
+53,M,ASY,140,243,0,Normal,155,No,0.0,Up,0,Paruh Baya
+56,F,ATA,120,279,0,Normal,150,No,1.0,Flat,1,Paruh Baya
+39,M,ASY,110,273,0,Normal,132,No,0.0,Up,0,Muda
+42,M,ATA,120,198,0,Normal,155,No,0.0,Up,0,Paruh Baya
+43,F,ATA,120,249,0,ST,176,No,0.0,Up,0,Paruh Baya
+50,M,ATA,120,168,0,Normal,160,No,0.0,Up,0,Paruh Baya
+54,M,ASY,130,603,1,Normal,125,Yes,1.0,Flat,1,Paruh Baya
+39,M,ATA,130,215,0,Normal,120,No,0.0,Up,0,Muda
+48,M,ATA,100,159,0,Normal,100,No,0.0,Up,0,Paruh Baya
+40,M,ATA,130,275,0,Normal,150,No,0.0,Up,0,Paruh Baya
+55,M,ASY,120,270,0,Normal,140,No,0.0,Up,0,Paruh Baya
+41,M,ATA,120,291,0,ST,160,No,0.0,Up,0,Paruh Baya
+56,M,ASY,155,342,1,Normal,150,Yes,3.0,Flat,1,Paruh Baya
+38,M,ASY,110,190,0,Normal,150,Yes,1.0,Flat,1,Muda
+49,M,ASY,140,185,0,Normal,130,No,0.0,Up,0,Paruh Baya
+44,M,ASY,130,290,0,Normal,100,Yes,2.0,Flat,1,Paruh Baya
+54,M,ATA,160,195,0,ST,130,No,1.0,Up,0,Paruh Baya
+59,M,ASY,140,264,1,LVH,119,Yes,0.0,Flat,1,Paruh Baya
+49,M,ASY,128,212,0,Normal,96,Yes,0.0,Flat,1,Paruh Baya
+47,M,ATA,160,263,0,Normal,174,No,0.0,Up,0,Paruh Baya
+42,M,ATA,120,196,0,Normal,150,No,0.0,Up,0,Paruh Baya
+52,F,ATA,140,225,0,Normal,140,No,0.0,Up,0,Paruh Baya
+46,M,TA,140,272,1,Normal,175,No,2.0,Flat,1,Paruh Baya
+50,M,ASY,140,231,0,ST,140,Yes,5.0,Flat,1,Paruh Baya
+48,M,ATA,140,238,0,Normal,118,No,0.0,Up,0,Paruh Baya
+58,M,ASY,135,222,0,Normal,100,No,0.0,Up,0,Paruh Baya
+58,M,NAP,140,179,0,Normal,160,No,0.0,Up,0,Paruh Baya
+29,M,ATA,120,243,0,Normal,160,No,0.0,Up,0,Muda
+40,M,NAP,140,235,0,Normal,188,No,0.0,Up,0,Paruh Baya
+53,M,ATA,140,320,0,Normal,162,No,0.0,Up,0,Paruh Baya
+49,M,NAP,140,187,0,Normal,172,No,0.0,Up,0,Paruh Baya
+52,M,ASY,140,266,0,Normal,134,Yes,2.0,Flat,1,Paruh Baya
+43,M,ASY,140,288,0,Normal,135,Yes,2.0,Flat,1,Paruh Baya
+54,M,ASY,140,216,0,Normal,105,No,1.5,Flat,1,Paruh Baya
+59,M,ATA,140,287,0,Normal,150,No,0.0,Up,0,Paruh Baya
+37,M,NAP,130,194,0,Normal,150,No,0.0,Up,0,Muda
+46,F,ASY,130,238,0,Normal,90,No,0.0,Up,0,Paruh Baya
+52,M,ASY,130,225,0,Normal,120,Yes,2.0,Flat,1,Paruh Baya
+51,M,ATA,130,224,0,Normal,150,No,0.0,Up,0,Paruh Baya
+52,M,ASY,140,404,0,Normal,124,Yes,2.0,Flat,1,Paruh Baya
+46,M,ASY,110,238,0,ST,140,Yes,1.0,Flat,0,Paruh Baya
+54,F,ATA,160,312,0,Normal,130,No,0.0,Up,0,Paruh Baya
+58,M,NAP,160,211,1,ST,92,No,0.0,Flat,1,Paruh Baya
+58,M,ATA,130,251,0,Normal,110,No,0.0,Up,0,Paruh Baya
+41,M,ASY,120,237,1,Normal,138,Yes,1.0,Flat,1,Paruh Baya
+50,F,ASY,120,328,0,Normal,110,Yes,1.0,Flat,0,Paruh Baya
+53,M,ASY,180,285,0,ST,120,Yes,1.5,Flat,1,Paruh Baya
+46,M,ASY,180,280,0,ST,120,No,0.0,Up,0,Paruh Baya
+50,M,ATA,170,209,0,ST,116,No,0.0,Up,0,Paruh Baya
+48,M,ATA,130,245,0,Normal,160,No,0.0,Up,0,Paruh Baya
+45,M,NAP,135,192,0,Normal,110,No,0.0,Up,0,Paruh Baya
+41,F,ATA,125,184,0,Normal,180,No,0.0,Up,0,Paruh Baya
+62,F,TA,160,193,0,Normal,116,No,0.0,Up,0,Lansia
+49,M,ASY,120,297,0,Normal,132,No,1.0,Flat,0,Paruh Baya
+42,M,ATA,150,268,0,Normal,136,No,0.0,Up,0,Paruh Baya
+53,M,ASY,120,246,0,Normal,116,Yes,0.0,Flat,1,Paruh Baya
+57,F,TA,130,308,0,Normal,98,No,1.0,Flat,0,Paruh Baya
+47,M,TA,110,249,0,Normal,150,No,0.0,Up,0,Paruh Baya
+46,M,NAP,120,230,0,Normal,150,No,0.0,Up,0,Paruh Baya
+42,M,NAP,160,147,0,Normal,146,No,0.0,Up,0,Paruh Baya
+31,F,ATA,100,219,0,ST,150,No,0.0,Up,0,Muda
+56,M,ATA,130,184,0,Normal,100,No,0.0,Up,0,Paruh Baya
+50,M,ASY,150,215,0,Normal,140,Yes,0.0,Up,0,Paruh Baya
+35,M,ATA,120,308,0,LVH,180,No,0.0,Up,0,Muda
+35,M,ATA,110,257,0,Normal,140,No,0.0,Flat,1,Muda
+28,M,ATA,130,132,0,LVH,185,No,0.0,Up,0,Muda
+54,M,ASY,125,216,0,Normal,140,No,0.0,Flat,1,Paruh Baya
+48,M,ASY,106,263,1,Normal,110,No,0.0,Flat,1,Paruh Baya
+50,F,NAP,140,288,0,Normal,140,Yes,0.0,Flat,1,Paruh Baya
+56,M,NAP,130,276,0,Normal,128,Yes,1.0,Up,0,Paruh Baya
+56,F,NAP,130,219,0,ST,164,No,0.0,Up,0,Paruh Baya
+47,M,ASY,150,226,0,Normal,98,Yes,1.5,Flat,1,Paruh Baya
+30,F,TA,170,237,0,ST,170,No,0.0,Up,0,Muda
+39,M,ASY,110,280,0,Normal,150,No,0.0,Flat,1,Muda
+54,M,NAP,120,217,0,Normal,137,No,0.0,Up,0,Paruh Baya
+55,M,ATA,140,196,0,Normal,150,No,0.0,Up,0,Paruh Baya
+29,M,ATA,140,263,0,Normal,170,No,0.0,Up,0,Muda
+46,M,ASY,130,222,0,Normal,112,No,0.0,Flat,1,Paruh Baya
+51,F,ASY,160,303,0,Normal,150,Yes,1.0,Flat,1,Paruh Baya
+48,F,NAP,120,195,0,Normal,125,No,0.0,Up,0,Paruh Baya
+33,M,NAP,120,298,0,Normal,185,No,0.0,Up,0,Muda
+55,M,ATA,120,256,1,Normal,137,No,0.0,Up,0,Paruh Baya
+50,M,ASY,145,264,0,Normal,150,No,0.0,Flat,1,Paruh Baya
+53,M,NAP,120,195,0,Normal,140,No,0.0,Up,0,Paruh Baya
+38,M,ASY,92,117,0,Normal,134,Yes,2.5,Flat,1,Muda
+41,M,ATA,120,295,0,Normal,170,No,0.0,Up,0,Paruh Baya
+37,F,ASY,130,173,0,ST,184,No,0.0,Up,0,Muda
+37,M,ASY,130,315,0,Normal,158,No,0.0,Up,0,Muda
+40,M,NAP,130,281,0,Normal,167,No,0.0,Up,0,Paruh Baya
+38,F,ATA,120,275,0,Normal,129,No,0.0,Up,0,Muda
+41,M,ASY,112,250,0,Normal,142,No,0.0,Up,0,Paruh Baya
+54,F,ATA,140,309,0,ST,140,No,0.0,Up,0,Paruh Baya
+39,M,ATA,120,200,0,Normal,160,Yes,1.0,Flat,0,Muda
+41,M,ASY,120,336,0,Normal,118,Yes,3.0,Flat,1,Paruh Baya
+55,M,TA,140,295,0,Normal,136,No,0.0,Flat,1,Paruh Baya
+48,M,ASY,160,355,0,Normal,99,Yes,2.0,Flat,1,Paruh Baya
+48,M,ASY,160,193,0,Normal,102,Yes,3.0,Flat,1,Paruh Baya
+55,M,ATA,145,326,0,Normal,155,No,0.0,Up,0,Paruh Baya
+54,M,ASY,200,198,0,Normal,142,Yes,2.0,Flat,1,Paruh Baya
+55,M,ATA,160,292,1,Normal,143,Yes,2.0,Flat,1,Paruh Baya
+43,F,ATA,120,266,0,Normal,118,No,0.0,Up,0,Paruh Baya
+48,M,ASY,160,268,0,Normal,103,Yes,1.0,Flat,1,Paruh Baya
+54,M,TA,120,171,0,Normal,137,No,2.0,Up,0,Paruh Baya
+54,M,NAP,120,237,0,Normal,150,Yes,1.5,Flat,1,Paruh Baya
+48,M,ASY,122,275,1,ST,150,Yes,2.0,Down,1,Paruh Baya
+45,M,ASY,130,219,0,ST,130,Yes,1.0,Flat,1,Paruh Baya
+49,M,ASY,130,341,0,Normal,120,Yes,1.0,Flat,1,Paruh Baya
+44,M,ASY,135,491,0,Normal,135,No,0.0,Flat,1,Paruh Baya
+48,M,ASY,120,260,0,Normal,115,No,2.0,Flat,1,Paruh Baya
+61,M,ASY,125,292,0,ST,115,Yes,0.0,Up,0,Lansia
+62,M,ATA,140,271,0,Normal,152,No,1.0,Up,0,Lansia
+55,M,ASY,145,248,0,Normal,96,Yes,2.0,Flat,1,Paruh Baya
+53,F,NAP,120,274,0,Normal,130,No,0.0,Up,0,Paruh Baya
+55,F,ATA,130,394,0,LVH,150,No,0.0,Up,0,Paruh Baya
+36,M,NAP,150,160,0,Normal,172,No,0.0,Up,0,Muda
+51,F,NAP,150,200,0,Normal,120,No,0.5,Up,0,Paruh Baya
+55,F,ATA,122,320,0,Normal,155,No,0.0,Up,0,Paruh Baya
+46,M,ATA,140,275,0,Normal,165,Yes,0.0,Up,0,Paruh Baya
+54,F,ATA,120,221,0,Normal,138,No,1.0,Up,0,Paruh Baya
+46,M,ASY,120,231,0,Normal,115,Yes,0.0,Flat,1,Paruh Baya
+59,M,ASY,130,126,0,Normal,125,No,0.0,Flat,1,Paruh Baya
+47,M,NAP,140,193,0,Normal,145,Yes,1.0,Flat,1,Paruh Baya
+54,M,ATA,160,305,0,Normal,175,No,0.0,Up,0,Paruh Baya
+52,M,ASY,130,298,0,Normal,110,Yes,1.0,Flat,1,Paruh Baya
+34,M,ATA,98,220,0,Normal,150,No,0.0,Up,0,Muda
+54,M,ASY,130,242,0,Normal,91,Yes,1.0,Flat,1,Paruh Baya
+47,F,NAP,130,235,0,Normal,145,No,2.0,Flat,0,Paruh Baya
+45,M,ASY,120,225,0,Normal,140,No,0.0,Up,0,Paruh Baya
+32,F,ATA,105,198,0,Normal,165,No,0.0,Up,0,Muda
+55,M,ASY,140,201,0,Normal,130,Yes,3.0,Flat,1,Paruh Baya
+55,M,NAP,120,220,0,LVH,134,No,0.0,Up,0,Paruh Baya
+45,F,ATA,180,295,0,Normal,180,No,0.0,Up,0,Paruh Baya
+59,M,NAP,180,213,0,Normal,100,No,0.0,Up,0,Paruh Baya
+51,M,NAP,135,160,0,Normal,150,No,2.0,Flat,1,Paruh Baya
+52,M,ASY,170,223,0,Normal,126,Yes,1.5,Flat,1,Paruh Baya
+57,F,ASY,180,347,0,ST,126,Yes,0.8,Flat,0,Paruh Baya
+54,F,ATA,130,253,0,ST,155,No,0.0,Up,0,Paruh Baya
+60,M,NAP,120,246,0,LVH,135,No,0.0,Up,0,Lansia
+49,M,ASY,150,222,0,Normal,122,No,2.0,Flat,1,Paruh Baya
+51,F,NAP,130,220,0,Normal,160,Yes,2.0,Up,0,Paruh Baya
+55,F,ATA,110,344,0,ST,160,No,0.0,Up,0,Paruh Baya
+42,M,ASY,140,358,0,Normal,170,No,0.0,Up,0,Paruh Baya
+51,F,NAP,110,190,0,Normal,120,No,0.0,Up,0,Paruh Baya
+59,M,ASY,140,169,0,Normal,140,No,0.0,Up,0,Paruh Baya
+53,M,ATA,120,181,0,Normal,132,No,0.0,Up,0,Paruh Baya
+48,F,ATA,133,308,0,ST,156,No,2.0,Up,0,Paruh Baya
+36,M,ATA,120,166,0,Normal,180,No,0.0,Up,0,Muda
+48,M,NAP,110,211,0,Normal,138,No,0.0,Up,0,Paruh Baya
+47,F,ATA,140,257,0,Normal,135,No,1.0,Up,0,Paruh Baya
+53,M,ASY,130,182,0,Normal,148,No,0.0,Up,0,Paruh Baya
+65,M,ASY,115,237,0,Normal,93,Yes,0.0,Flat,1,Lansia
+32,M,TA,95,237,1,Normal,127,No,0.7,Up,1,Muda
+61,M,ASY,105,237,1,Normal,110,Yes,1.5,Up,1,Lansia
+50,M,ASY,145,237,1,Normal,139,Yes,0.7,Flat,1,Paruh Baya
+57,M,ASY,110,237,1,ST,131,Yes,1.4,Up,1,Paruh Baya
+51,M,ASY,110,237,1,Normal,92,No,0.0,Flat,1,Paruh Baya
+47,M,ASY,110,237,1,ST,149,No,2.1,Up,1,Paruh Baya
+60,M,ASY,160,237,1,Normal,149,No,0.4,Flat,1,Lansia
+55,M,ATA,140,237,0,ST,150,No,0.2,Up,0,Paruh Baya
+53,M,ASY,125,237,1,Normal,120,No,1.5,Up,1,Paruh Baya
+62,F,ASY,120,237,1,ST,123,Yes,1.7,Down,1,Lansia
+51,M,ASY,95,237,1,Normal,126,No,2.2,Flat,1,Paruh Baya
+51,F,ASY,120,237,1,Normal,127,Yes,1.5,Up,1,Paruh Baya
+55,M,ASY,115,237,1,Normal,155,No,0.1,Flat,1,Paruh Baya
+53,M,ATA,130,237,0,ST,120,No,0.7,Down,0,Paruh Baya
+58,M,ASY,115,237,1,Normal,138,No,0.5,Up,1,Paruh Baya
+57,M,ASY,95,237,1,Normal,182,No,0.7,Down,1,Paruh Baya
+65,M,ASY,155,237,0,Normal,154,No,1.0,Up,0,Lansia
+60,M,ASY,125,237,1,Normal,110,No,0.1,Up,1,Lansia
+41,M,ASY,125,237,1,Normal,176,No,1.6,Up,1,Paruh Baya
+34,M,ASY,115,237,1,Normal,154,No,0.2,Up,1,Muda
+53,M,ASY,80,237,0,Normal,141,Yes,2.0,Down,0,Paruh Baya
+74,M,ATA,145,237,1,ST,123,No,1.3,Up,1,Lansia
+57,M,NAP,105,237,1,Normal,148,No,0.3,Flat,1,Paruh Baya
+56,M,ASY,140,237,1,Normal,121,Yes,1.8,Up,1,Paruh Baya
+61,M,ASY,130,237,1,Normal,77,No,2.5,Flat,1,Lansia
+68,M,ASY,145,237,1,Normal,136,No,1.8,Up,1,Lansia
+59,M,NAP,125,237,1,Normal,175,No,2.6,Flat,1,Paruh Baya
+63,M,ASY,100,237,1,Normal,109,No,0.9,Flat,1,Lansia
+38,F,ASY,105,237,1,Normal,166,No,2.8,Up,1,Muda
+62,M,ASY,115,237,1,Normal,128,Yes,2.5,Down,1,Lansia
+46,M,ASY,100,237,1,ST,133,No,2.6,Flat,1,Paruh Baya
+42,M,ASY,105,237,1,Normal,128,Yes,1.5,Down,1,Paruh Baya
+45,M,NAP,110,237,0,Normal,138,No,0.1,Up,0,Paruh Baya
+59,M,ASY,125,237,1,Normal,119,Yes,0.9,Up,1,Paruh Baya
+52,M,ASY,95,237,1,Normal,82,Yes,0.8,Flat,1,Paruh Baya
+60,M,ASY,130,237,1,ST,130,Yes,1.1,Down,1,Lansia
+60,M,NAP,115,237,1,Normal,143,No,2.4,Up,1,Lansia
+56,M,ASY,115,237,1,ST,82,No,1.0,Up,1,Paruh Baya
+38,M,NAP,100,237,0,Normal,179,No,1.1,Up,0,Muda
+40,M,ASY,95,237,1,ST,144,No,0.0,Up,1,Paruh Baya
+51,M,ASY,130,237,1,Normal,170,No,0.7,Up,1,Paruh Baya
+62,M,TA,120,237,1,LVH,134,No,0.8,Flat,1,Lansia
+72,M,NAP,160,237,0,LVH,114,No,1.6,Flat,0,Lansia
+63,M,ASY,150,237,1,ST,154,No,3.7,Up,1,Lansia
+63,M,ASY,140,237,1,LVH,149,No,2.0,Up,1,Lansia
+64,F,ASY,95,237,1,Normal,145,No,1.1,Down,1,Lansia
+43,M,ASY,100,237,1,Normal,122,No,1.5,Down,1,Paruh Baya
+64,M,ASY,110,237,1,Normal,114,Yes,1.3,Down,1,Lansia
+61,M,ASY,110,237,1,Normal,113,No,1.4,Flat,1,Lansia
+52,M,ASY,130,237,1,Normal,120,No,0.0,Flat,1,Paruh Baya
+51,M,ASY,120,237,1,Normal,104,No,0.0,Flat,1,Paruh Baya
+69,M,ASY,135,237,0,Normal,130,No,0.0,Flat,1,Lansia
+59,M,ASY,120,237,0,Normal,115,No,0.0,Flat,1,Paruh Baya
+48,M,ASY,115,237,1,Normal,128,No,0.0,Flat,1,Paruh Baya
+69,M,ASY,137,237,0,ST,104,Yes,1.6,Flat,1,Lansia
+36,M,ASY,110,237,1,Normal,125,Yes,1.0,Flat,1,Muda
+53,M,ASY,120,237,1,Normal,120,No,0.0,Flat,1,Paruh Baya
+43,M,ASY,140,237,0,ST,140,Yes,0.5,Up,1,Paruh Baya
+56,M,ASY,120,237,0,ST,100,Yes,1.0,Down,1,Paruh Baya
+58,M,ASY,130,237,0,ST,100,Yes,1.0,Flat,1,Paruh Baya
+55,M,ASY,120,237,0,ST,92,No,0.3,Up,1,Paruh Baya
+67,M,TA,145,237,0,LVH,125,No,0.0,Flat,1,Lansia
+46,M,ASY,115,237,0,Normal,113,Yes,1.5,Flat,1,Paruh Baya
+53,M,ATA,120,237,0,Normal,95,No,0.0,Flat,1,Paruh Baya
+38,M,NAP,115,237,0,Normal,128,Yes,0.0,Flat,1,Muda
+53,M,NAP,105,237,0,Normal,115,No,0.0,Flat,1,Paruh Baya
+62,M,NAP,160,237,0,Normal,72,Yes,0.0,Flat,1,Lansia
+47,M,ASY,160,237,0,Normal,124,Yes,0.0,Flat,1,Paruh Baya
+56,M,NAP,155,237,0,ST,99,No,0.0,Flat,1,Paruh Baya
+56,M,ASY,120,237,0,ST,148,No,0.0,Flat,1,Paruh Baya
+56,M,NAP,120,237,0,Normal,97,No,0.0,Flat,0,Paruh Baya
+64,F,ASY,200,237,0,Normal,140,Yes,1.0,Flat,1,Lansia
+61,M,ASY,150,237,0,Normal,117,Yes,2.0,Flat,1,Lansia
+68,M,ASY,135,237,0,ST,120,Yes,0.0,Up,1,Lansia
+57,M,ASY,140,237,0,Normal,120,Yes,2.0,Flat,1,Paruh Baya
+63,M,ASY,150,237,0,Normal,86,Yes,2.0,Flat,1,Lansia
+60,M,ASY,135,237,0,Normal,63,Yes,0.5,Up,1,Lansia
+66,M,ASY,150,237,0,Normal,108,Yes,2.0,Flat,1,Lansia
+63,M,ASY,185,237,0,Normal,98,Yes,0.0,Up,1,Lansia
+59,M,ASY,135,237,0,Normal,115,Yes,1.0,Flat,1,Paruh Baya
+61,M,ASY,125,237,0,Normal,105,Yes,0.0,Down,1,Lansia
+73,F,NAP,160,237,0,ST,121,No,0.0,Up,1,Lansia
+47,M,NAP,155,237,0,Normal,118,Yes,1.0,Flat,1,Paruh Baya
+65,M,ASY,160,237,1,ST,122,No,1.2,Flat,1,Lansia
+70,M,ASY,140,237,1,Normal,157,Yes,2.0,Flat,1,Lansia
+50,M,ASY,120,237,0,ST,156,Yes,0.0,Up,1,Paruh Baya
+60,M,ASY,160,237,0,ST,99,Yes,0.5,Flat,1,Lansia
+50,M,ASY,115,237,0,Normal,120,Yes,0.5,Flat,1,Paruh Baya
+43,M,ASY,115,237,0,Normal,145,Yes,2.0,Flat,1,Paruh Baya
+38,F,ASY,110,237,0,Normal,156,No,0.0,Flat,1,Muda
+54,M,ASY,120,237,0,Normal,155,No,0.0,Flat,1,Paruh Baya
+61,M,ASY,150,237,0,Normal,105,Yes,0.0,Flat,1,Lansia
+42,M,ASY,145,237,0,Normal,99,Yes,0.0,Flat,1,Paruh Baya
+53,M,ASY,130,237,0,LVH,135,Yes,1.0,Flat,1,Paruh Baya
+55,M,ASY,140,237,0,Normal,83,No,0.0,Flat,1,Paruh Baya
+61,M,ASY,160,237,1,ST,145,No,1.0,Flat,1,Lansia
+51,M,ASY,140,237,0,Normal,60,No,0.0,Flat,1,Paruh Baya
+70,M,ASY,115,237,0,ST,92,Yes,0.0,Flat,1,Lansia
+61,M,ASY,130,237,0,LVH,115,No,0.0,Flat,1,Lansia
+38,M,ASY,150,237,1,Normal,120,Yes,0.7,Flat,1,Muda
+57,M,ASY,160,237,1,Normal,98,Yes,2.0,Flat,1,Paruh Baya
+38,M,ASY,135,237,1,Normal,150,No,0.0,Flat,1,Muda
+62,F,TA,140,237,1,Normal,143,No,0.0,Flat,1,Lansia
+58,M,ASY,170,237,1,ST,105,Yes,0.0,Flat,1,Paruh Baya
+52,M,ASY,165,237,1,Normal,122,Yes,1.0,Up,1,Paruh Baya
+61,M,NAP,200,237,1,ST,70,No,0.0,Flat,1,Lansia
+50,F,ASY,160,237,1,Normal,110,No,0.0,Flat,1,Paruh Baya
+51,M,ASY,130,237,1,ST,163,No,0.0,Flat,1,Paruh Baya
+65,M,ASY,145,237,1,ST,67,No,0.7,Flat,1,Lansia
+52,M,ASY,135,237,1,Normal,128,Yes,2.0,Flat,1,Paruh Baya
+47,M,NAP,110,237,1,Normal,120,Yes,0.0,Flat,1,Paruh Baya
+35,M,ASY,120,237,1,Normal,130,Yes,1.2,Flat,1,Muda
+57,M,ASY,140,237,1,Normal,100,Yes,0.0,Flat,1,Paruh Baya
+62,M,ASY,115,237,1,Normal,72,Yes,0.5,Flat,1,Lansia
+59,M,ASY,110,237,1,Normal,94,No,0.0,Flat,1,Paruh Baya
+53,M,NAP,160,237,1,LVH,122,Yes,0.0,Flat,1,Paruh Baya
+62,M,ASY,150,237,1,ST,78,No,2.0,Flat,1,Lansia
+54,M,ASY,180,237,1,Normal,150,No,1.5,Flat,1,Paruh Baya
+56,M,ASY,125,237,1,Normal,103,Yes,1.0,Flat,1,Paruh Baya
+56,M,NAP,125,237,1,Normal,98,No,2.0,Flat,1,Paruh Baya
+54,M,ASY,130,237,1,Normal,110,Yes,3.0,Flat,1,Paruh Baya
+66,F,ASY,155,237,1,Normal,90,No,0.0,Flat,1,Lansia
+63,M,ASY,140,260,0,ST,112,Yes,3.0,Flat,1,Lansia
+44,M,ASY,130,209,0,ST,127,No,0.0,Up,0,Paruh Baya
+60,M,ASY,132,218,0,ST,140,Yes,1.5,Down,1,Lansia
+55,M,ASY,142,228,0,ST,149,Yes,2.5,Up,1,Paruh Baya
+66,M,NAP,110,213,1,LVH,99,Yes,1.3,Flat,0,Lansia
+66,M,NAP,120,237,0,ST,120,No,0.5,Up,0,Lansia
+65,M,ASY,150,236,1,ST,105,Yes,0.0,Flat,1,Lansia
+60,M,NAP,180,237,0,ST,140,Yes,1.5,Flat,0,Lansia
+60,M,NAP,120,237,1,Normal,141,Yes,2.0,Up,1,Lansia
+60,M,ATA,160,267,1,ST,157,No,0.5,Flat,1,Lansia
+56,M,ATA,126,166,0,ST,140,No,0.0,Up,0,Paruh Baya
+59,M,ASY,140,237,0,ST,117,Yes,1.0,Flat,1,Paruh Baya
+62,M,ASY,110,237,0,Normal,120,Yes,0.5,Flat,1,Lansia
+63,M,NAP,133,237,0,LVH,120,Yes,1.0,Flat,1,Lansia
+57,M,ASY,128,237,1,ST,148,Yes,1.0,Flat,1,Paruh Baya
+62,M,ASY,120,220,0,ST,86,No,0.0,Up,0,Lansia
+63,M,ASY,170,177,0,Normal,84,Yes,2.5,Down,1,Lansia
+46,M,ASY,110,236,0,Normal,125,Yes,2.0,Flat,1,Paruh Baya
+63,M,ASY,126,237,0,ST,120,No,1.5,Down,0,Lansia
+60,M,ASY,152,237,0,ST,118,Yes,0.0,Up,0,Lansia
+58,M,ASY,116,237,0,Normal,124,No,1.0,Up,1,Paruh Baya
+64,M,ASY,120,237,1,ST,106,No,2.0,Flat,1,Lansia
+63,M,NAP,130,237,0,ST,111,Yes,0.0,Flat,1,Lansia
+74,M,NAP,138,237,0,Normal,116,No,0.2,Up,0,Lansia
+52,M,NAP,128,237,0,ST,180,No,3.0,Up,1,Paruh Baya
+69,M,ASY,130,237,1,ST,129,No,1.0,Flat,1,Lansia
+51,M,ASY,128,237,1,ST,125,Yes,1.2,Flat,1,Paruh Baya
+60,M,ASY,130,186,1,ST,140,Yes,0.5,Flat,1,Lansia
+56,M,ASY,120,100,0,Normal,120,Yes,1.5,Flat,1,Paruh Baya
+55,M,NAP,136,228,0,ST,124,Yes,1.6,Flat,1,Paruh Baya
+54,M,ASY,130,237,0,ST,117,Yes,1.4,Flat,1,Paruh Baya
+77,M,ASY,124,171,0,ST,110,Yes,2.0,Up,1,Lansia
+63,M,ASY,160,230,1,Normal,105,Yes,1.0,Flat,1,Lansia
+55,M,NAP,237,237,0,Normal,155,No,1.5,Flat,1,Paruh Baya
+52,M,NAP,122,237,0,Normal,110,Yes,2.0,Down,1,Paruh Baya
+64,M,ASY,144,237,0,ST,122,Yes,1.0,Flat,1,Lansia
+60,M,ASY,140,281,0,ST,118,Yes,1.5,Flat,1,Lansia
+60,M,ASY,120,237,0,Normal,133,Yes,2.0,Up,0,Lansia
+58,M,ASY,136,203,1,Normal,123,Yes,1.2,Flat,1,Paruh Baya
+59,M,ASY,154,237,0,ST,131,Yes,1.5,Up,0,Paruh Baya
+61,M,NAP,120,237,0,Normal,80,Yes,0.0,Flat,1,Lansia
+40,M,ASY,125,237,1,Normal,165,No,0.0,Flat,1,Paruh Baya
+61,M,ASY,134,237,1,ST,86,No,1.5,Flat,1,Lansia
+41,M,ASY,104,237,0,ST,111,No,0.0,Up,0,Paruh Baya
+57,M,ASY,139,277,1,ST,118,Yes,1.9,Flat,1,Paruh Baya
+63,M,ASY,136,237,0,Normal,84,Yes,0.0,Flat,1,Lansia
+59,M,ASY,122,233,0,Normal,117,Yes,1.3,Down,1,Paruh Baya
+51,M,ASY,128,237,0,Normal,107,No,0.0,Up,0,Paruh Baya
+59,M,NAP,131,237,0,Normal,128,Yes,2.0,Down,1,Paruh Baya
+42,M,NAP,134,240,0,Normal,160,No,0.0,Up,0,Paruh Baya
+55,M,NAP,120,237,0,ST,125,Yes,2.5,Flat,1,Paruh Baya
+63,F,ATA,132,237,0,Normal,130,No,0.1,Up,0,Lansia
+62,M,ASY,152,153,0,ST,97,Yes,1.6,Up,1,Lansia
+56,M,ATA,124,224,1,Normal,161,No,2.0,Flat,0,Paruh Baya
+53,M,ASY,126,237,0,Normal,106,No,0.0,Flat,1,Paruh Baya
+68,M,ASY,138,237,0,Normal,130,Yes,3.0,Flat,1,Lansia
+53,M,ASY,154,237,1,ST,140,Yes,1.5,Flat,1,Paruh Baya
+60,M,NAP,141,316,1,ST,122,Yes,1.7,Flat,1,Lansia
+62,M,ATA,131,237,0,Normal,130,No,0.1,Up,0,Lansia
+59,M,ASY,178,237,1,LVH,120,Yes,0.0,Flat,1,Paruh Baya
+51,M,ASY,132,218,1,LVH,139,No,0.1,Up,0,Paruh Baya
+61,M,ASY,110,237,1,Normal,108,Yes,2.0,Down,1,Lansia
+57,M,ASY,130,311,1,ST,148,Yes,2.0,Flat,1,Paruh Baya
+56,M,NAP,170,237,0,LVH,123,Yes,2.5,Flat,1,Paruh Baya
+58,M,ATA,126,237,1,Normal,110,Yes,2.0,Flat,1,Paruh Baya
+69,M,NAP,140,237,1,ST,118,No,2.5,Down,1,Lansia
+67,M,TA,142,270,1,Normal,125,No,2.5,Up,1,Lansia
+58,M,ASY,120,237,0,LVH,106,Yes,1.5,Down,1,Paruh Baya
+65,M,ASY,134,237,0,Normal,112,Yes,1.1,Flat,1,Lansia
+63,M,ATA,139,217,1,ST,128,Yes,1.2,Flat,1,Lansia
+55,M,ATA,110,214,1,ST,180,No,0.4,Up,0,Paruh Baya
+57,M,ASY,140,214,0,ST,144,Yes,2.0,Flat,1,Paruh Baya
+65,M,TA,140,252,0,Normal,135,No,0.3,Up,0,Lansia
+54,M,ASY,136,220,0,Normal,140,Yes,3.0,Flat,1,Paruh Baya
+72,M,NAP,120,214,0,Normal,102,Yes,1.0,Flat,1,Lansia
+75,M,ASY,170,203,1,ST,108,No,0.0,Flat,1,Lansia
+49,M,TA,130,237,0,ST,145,No,3.0,Flat,1,Paruh Baya
+51,M,NAP,137,339,0,Normal,127,Yes,1.7,Flat,1,Paruh Baya
+60,M,ASY,142,216,0,Normal,110,Yes,2.5,Flat,1,Lansia
+64,F,ASY,142,276,0,Normal,140,Yes,1.0,Flat,1,Lansia
+58,M,ASY,132,458,1,Normal,69,No,1.0,Down,0,Paruh Baya
+61,M,ASY,146,241,0,Normal,148,Yes,3.0,Down,1,Lansia
+67,M,ASY,160,384,1,ST,130,Yes,0.0,Flat,1,Lansia
+62,M,ASY,135,297,0,Normal,130,Yes,1.0,Flat,1,Lansia
+65,M,ASY,136,248,0,Normal,140,Yes,4.0,Down,1,Lansia
+63,M,ASY,130,308,0,Normal,138,Yes,2.0,Flat,1,Lansia
+69,M,ASY,140,208,0,ST,140,Yes,2.0,Flat,1,Lansia
+51,M,ASY,132,227,1,ST,138,No,0.2,Up,0,Paruh Baya
+62,M,ASY,158,210,1,Normal,112,Yes,3.0,Down,1,Lansia
+55,M,NAP,136,245,1,ST,131,Yes,1.2,Flat,1,Paruh Baya
+75,M,ASY,136,225,0,Normal,112,Yes,3.0,Flat,1,Lansia
+40,M,NAP,106,240,0,Normal,80,Yes,0.0,Up,0,Paruh Baya
+67,M,ASY,120,237,1,Normal,150,No,1.5,Down,1,Lansia
+58,M,ASY,110,198,0,Normal,110,No,0.0,Flat,1,Paruh Baya
+60,M,ASY,136,195,0,Normal,126,No,0.3,Up,0,Lansia
+63,M,ASY,160,267,1,ST,88,Yes,2.0,Flat,1,Lansia
+35,M,NAP,123,161,0,ST,153,No,0.1,Up,0,Muda
+62,M,TA,112,258,0,ST,150,Yes,1.3,Flat,1,Lansia
+43,M,ASY,122,237,0,Normal,120,No,0.5,Up,1,Paruh Baya
+63,M,NAP,130,237,1,ST,160,No,3.0,Flat,0,Lansia
+68,M,NAP,150,195,1,Normal,132,No,0.0,Flat,1,Lansia
+65,M,ASY,150,235,0,Normal,120,Yes,1.5,Flat,1,Lansia
+48,M,NAP,102,237,1,ST,110,Yes,1.0,Down,1,Paruh Baya
+63,M,ASY,96,305,0,ST,121,Yes,1.0,Up,1,Lansia
+64,M,ASY,130,223,0,ST,128,No,0.5,Flat,0,Lansia
+61,M,ASY,120,282,0,ST,135,Yes,4.0,Down,1,Lansia
+50,M,ASY,144,349,0,LVH,120,Yes,1.0,Up,1,Paruh Baya
+59,M,ASY,124,160,0,Normal,117,Yes,1.0,Flat,1,Paruh Baya
+55,M,ASY,150,160,0,ST,150,No,0.0,Up,0,Paruh Baya
+45,M,NAP,130,236,0,Normal,144,No,0.1,Up,0,Paruh Baya
+65,M,ASY,144,312,0,LVH,113,Yes,1.7,Flat,1,Lansia
+61,M,ATA,139,283,0,Normal,135,No,0.3,Up,0,Lansia
+49,M,NAP,131,142,0,Normal,127,Yes,1.5,Flat,1,Paruh Baya
+72,M,ASY,143,211,0,Normal,109,Yes,1.4,Flat,1,Lansia
+50,M,ASY,133,218,0,Normal,128,Yes,1.1,Flat,1,Paruh Baya
+64,M,ASY,143,306,1,ST,115,Yes,1.8,Flat,1,Lansia
+55,M,ASY,116,186,1,ST,102,No,0.0,Flat,1,Paruh Baya
+63,M,ASY,110,252,0,ST,140,Yes,2.0,Flat,1,Lansia
+59,M,ASY,125,222,0,Normal,135,Yes,2.5,Down,1,Paruh Baya
+56,M,ASY,130,237,0,LVH,122,Yes,1.0,Flat,1,Paruh Baya
+62,M,NAP,133,237,1,ST,119,Yes,1.2,Flat,1,Lansia
+74,M,ASY,150,258,1,ST,130,Yes,4.0,Down,1,Lansia
+54,M,ASY,130,202,1,Normal,112,Yes,2.0,Flat,1,Paruh Baya
+57,M,ASY,110,197,0,LVH,100,No,0.0,Up,0,Paruh Baya
+62,M,NAP,138,204,0,ST,122,Yes,1.2,Flat,1,Lansia
+76,M,NAP,104,113,0,LVH,120,No,3.5,Down,1,Lansia
+54,F,ASY,138,274,0,Normal,105,Yes,1.5,Flat,1,Paruh Baya
+70,M,ASY,170,192,0,ST,129,Yes,3.0,Down,1,Lansia
+61,F,ATA,140,298,1,Normal,120,Yes,0.0,Up,0,Lansia
+48,M,ASY,132,272,0,ST,139,No,0.2,Up,0,Paruh Baya
+48,M,NAP,132,220,1,ST,162,No,0.0,Flat,1,Paruh Baya
+61,M,TA,142,200,1,ST,100,No,1.5,Down,1,Lansia
+66,M,ASY,112,261,0,Normal,140,No,1.5,Up,1,Lansia
+68,M,TA,139,181,1,ST,135,No,0.2,Up,0,Lansia
+55,M,ASY,172,260,0,Normal,73,No,2.0,Flat,1,Paruh Baya
+62,M,NAP,120,220,0,LVH,86,No,0.0,Up,0,Lansia
+71,M,NAP,144,221,0,Normal,108,Yes,1.8,Flat,1,Lansia
+74,M,TA,145,216,1,Normal,116,Yes,1.8,Flat,1,Lansia
+53,M,NAP,155,175,1,ST,160,No,0.3,Up,0,Paruh Baya
+58,M,NAP,150,219,0,ST,118,Yes,0.0,Flat,1,Paruh Baya
+75,M,ASY,160,310,1,Normal,112,Yes,2.0,Down,0,Lansia
+56,M,NAP,137,208,1,ST,122,Yes,1.8,Flat,1,Paruh Baya
+58,M,NAP,137,232,0,ST,124,Yes,1.4,Flat,1,Paruh Baya
+64,M,ASY,134,273,0,Normal,102,Yes,4.0,Down,1,Lansia
+54,M,NAP,133,203,0,ST,137,No,0.2,Up,0,Paruh Baya
+54,M,ATA,132,182,0,ST,141,No,0.1,Up,0,Paruh Baya
+59,M,ASY,140,274,0,Normal,154,Yes,2.0,Flat,0,Paruh Baya
+55,M,ASY,135,204,1,ST,126,Yes,1.1,Flat,1,Paruh Baya
+57,M,ASY,144,270,1,ST,160,Yes,2.0,Flat,1,Paruh Baya
+61,M,ASY,141,292,0,ST,115,Yes,1.7,Flat,1,Lansia
+41,M,ASY,150,171,0,Normal,128,Yes,1.5,Flat,0,Paruh Baya
+71,M,ASY,130,221,0,ST,115,Yes,0.0,Flat,1,Lansia
+38,M,ASY,110,289,0,Normal,105,Yes,1.5,Down,1,Muda
+55,M,ASY,158,217,0,Normal,110,Yes,2.5,Flat,1,Paruh Baya
+56,M,ASY,128,223,0,ST,119,Yes,2.0,Down,1,Paruh Baya
+69,M,ASY,140,110,1,Normal,109,Yes,1.5,Flat,1,Lansia
+64,M,ASY,150,193,0,ST,135,Yes,0.5,Flat,1,Lansia
+72,M,ASY,160,123,1,LVH,130,No,1.5,Flat,1,Lansia
+69,M,ASY,142,210,1,ST,112,Yes,1.5,Flat,1,Lansia
+56,M,ASY,137,282,1,Normal,126,Yes,1.2,Flat,1,Paruh Baya
+62,M,ASY,139,170,0,ST,120,Yes,3.0,Flat,1,Lansia
+67,M,ASY,146,369,0,Normal,110,Yes,1.9,Flat,1,Lansia
+57,M,ASY,156,173,0,LVH,119,Yes,3.0,Down,1,Paruh Baya
+69,M,ASY,145,289,1,ST,110,Yes,1.8,Flat,1,Lansia
+51,M,ASY,131,152,1,LVH,130,Yes,1.0,Flat,1,Paruh Baya
+48,M,ASY,140,208,0,Normal,159,Yes,1.5,Up,1,Paruh Baya
+69,M,ASY,122,216,1,LVH,84,Yes,0.0,Flat,1,Lansia
+69,M,NAP,142,271,0,LVH,126,No,0.3,Up,0,Lansia
+64,M,ASY,141,244,1,ST,116,Yes,1.5,Flat,1,Lansia
+57,M,ATA,180,285,1,ST,120,No,0.8,Flat,1,Paruh Baya
+53,M,ASY,124,243,0,Normal,122,Yes,2.0,Flat,1,Paruh Baya
+37,M,NAP,118,240,0,LVH,165,No,1.0,Flat,0,Muda
+67,M,ASY,140,219,0,ST,122,Yes,2.0,Flat,1,Lansia
+74,M,NAP,140,237,1,Normal,94,No,0.0,Flat,1,Lansia
+63,M,ATA,136,165,0,ST,133,No,0.2,Up,0,Lansia
+58,M,ASY,100,213,0,ST,110,No,0.0,Up,0,Paruh Baya
+61,M,ASY,190,287,1,LVH,150,Yes,2.0,Down,1,Lansia
+64,M,ASY,130,258,1,LVH,130,No,0.0,Flat,1,Lansia
+58,M,ASY,160,256,1,LVH,113,Yes,1.0,Up,1,Paruh Baya
+60,M,ASY,130,186,1,LVH,140,Yes,0.5,Flat,1,Lansia
+57,M,ASY,122,264,0,LVH,100,No,0.0,Flat,1,Paruh Baya
+55,M,NAP,133,185,0,ST,136,No,0.2,Up,0,Paruh Baya
+55,M,ASY,120,226,0,LVH,127,Yes,1.7,Down,1,Paruh Baya
+56,M,ASY,130,203,1,Normal,98,No,1.5,Flat,1,Paruh Baya
+57,M,ASY,130,207,0,ST,96,Yes,1.0,Flat,0,Paruh Baya
+61,M,NAP,140,284,0,Normal,123,Yes,1.3,Flat,1,Lansia
+61,M,NAP,120,337,0,Normal,98,Yes,0.0,Flat,1,Lansia
+74,M,ASY,155,310,0,Normal,112,Yes,1.5,Down,1,Lansia
+68,M,NAP,134,254,1,Normal,151,Yes,0.0,Up,0,Lansia
+51,F,ASY,114,258,1,LVH,96,No,1.0,Up,0,Paruh Baya
+62,M,ASY,160,254,1,ST,108,Yes,3.0,Flat,1,Lansia
+53,M,ASY,144,300,1,ST,128,Yes,1.5,Flat,1,Paruh Baya
+62,M,ASY,158,170,0,ST,138,Yes,0.0,Flat,1,Lansia
+46,M,ASY,134,310,0,Normal,126,No,0.0,Flat,1,Paruh Baya
+54,F,ASY,127,333,1,ST,154,No,0.0,Flat,1,Paruh Baya
+62,M,TA,135,139,0,ST,137,No,0.2,Up,0,Lansia
+55,M,ASY,122,223,1,ST,100,No,0.0,Flat,1,Paruh Baya
+58,M,ASY,140,385,1,LVH,135,No,0.3,Up,0,Paruh Baya
+62,M,ATA,120,254,0,LVH,93,Yes,0.0,Flat,1,Lansia
+70,M,ASY,130,322,0,LVH,109,No,2.4,Flat,1,Lansia
+67,F,NAP,115,564,0,LVH,160,No,1.6,Flat,0,Lansia
+57,M,ATA,124,261,0,Normal,141,No,0.3,Up,1,Paruh Baya
+64,M,ASY,128,263,0,Normal,105,Yes,0.2,Flat,0,Lansia
+74,F,ATA,120,269,0,LVH,121,Yes,0.2,Up,0,Lansia
+65,M,ASY,120,177,0,Normal,140,No,0.4,Up,0,Lansia
+56,M,NAP,130,256,1,LVH,142,Yes,0.6,Flat,1,Paruh Baya
+59,M,ASY,110,239,0,LVH,142,Yes,1.2,Flat,1,Paruh Baya
+60,M,ASY,140,293,0,LVH,170,No,1.2,Flat,1,Lansia
+63,F,ASY,150,407,0,LVH,154,No,4.0,Flat,1,Lansia
+59,M,ASY,135,234,0,Normal,161,No,0.5,Flat,0,Paruh Baya
+53,M,ASY,142,226,0,LVH,111,Yes,0.0,Up,0,Paruh Baya
+44,M,NAP,140,235,0,LVH,180,No,0.0,Up,0,Paruh Baya
+61,M,TA,134,234,0,Normal,145,No,2.6,Flat,1,Lansia
+57,F,ASY,128,303,0,LVH,159,No,0.0,Up,0,Paruh Baya
+71,F,ASY,112,149,0,Normal,125,No,1.6,Flat,0,Lansia
+46,M,ASY,140,311,0,Normal,120,Yes,1.8,Flat,1,Paruh Baya
+53,M,ASY,140,203,1,LVH,155,Yes,3.1,Down,1,Paruh Baya
+64,M,TA,110,211,0,LVH,144,Yes,1.8,Flat,0,Lansia
+40,M,TA,140,199,0,Normal,178,Yes,1.4,Up,0,Paruh Baya
+67,M,ASY,120,229,0,LVH,129,Yes,2.6,Flat,1,Lansia
+48,M,ATA,130,245,0,LVH,180,No,0.2,Flat,0,Paruh Baya
+43,M,ASY,115,303,0,Normal,181,No,1.2,Flat,0,Paruh Baya
+47,M,ASY,112,204,0,Normal,143,No,0.1,Up,0,Paruh Baya
+54,F,ATA,132,288,1,LVH,159,Yes,0.0,Up,0,Paruh Baya
+48,F,NAP,130,275,0,Normal,139,No,0.2,Up,0,Paruh Baya
+46,F,ASY,138,243,0,LVH,152,Yes,0.0,Flat,0,Paruh Baya
+51,F,NAP,120,295,0,LVH,157,No,0.6,Up,0,Paruh Baya
+58,M,NAP,112,230,0,LVH,165,No,2.5,Flat,1,Paruh Baya
+71,F,NAP,110,265,1,LVH,130,No,0.0,Up,0,Lansia
+57,M,NAP,128,229,0,LVH,150,No,0.4,Flat,1,Paruh Baya
+66,M,ASY,160,228,0,LVH,138,No,2.3,Up,0,Lansia
+37,F,NAP,120,215,0,Normal,170,No,0.0,Up,0,Muda
+59,M,ASY,170,326,0,LVH,140,Yes,3.4,Down,1,Paruh Baya
+50,M,ASY,144,200,0,LVH,126,Yes,0.9,Flat,1,Paruh Baya
+48,M,ASY,130,256,1,LVH,150,Yes,0.0,Up,1,Paruh Baya
+61,M,ASY,140,207,0,LVH,138,Yes,1.9,Up,1,Lansia
+59,M,TA,160,273,0,LVH,125,No,0.0,Up,1,Paruh Baya
+42,M,NAP,130,180,0,Normal,150,No,0.0,Up,0,Paruh Baya
+48,M,ASY,122,222,0,LVH,186,No,0.0,Up,0,Paruh Baya
+40,M,ASY,152,223,0,Normal,181,No,0.0,Up,1,Paruh Baya
+62,F,ASY,124,209,0,Normal,163,No,0.0,Up,0,Lansia
+44,M,NAP,130,233,0,Normal,179,Yes,0.4,Up,0,Paruh Baya
+46,M,ATA,101,197,1,Normal,156,No,0.0,Up,0,Paruh Baya
+59,M,NAP,126,218,1,Normal,134,No,2.2,Flat,1,Paruh Baya
+58,M,NAP,140,211,1,LVH,165,No,0.0,Up,0,Paruh Baya
+49,M,NAP,118,149,0,LVH,126,No,0.8,Up,1,Paruh Baya
+44,M,ASY,110,197,0,LVH,177,No,0.0,Up,1,Paruh Baya
+66,M,ATA,160,246,0,Normal,120,Yes,0.0,Flat,1,Lansia
+65,F,ASY,150,225,0,LVH,114,No,1.0,Flat,1,Lansia
+42,M,ASY,136,315,0,Normal,125,Yes,1.8,Flat,1,Paruh Baya
+52,M,ATA,128,205,1,Normal,184,No,0.0,Up,0,Paruh Baya
+65,F,NAP,140,417,1,LVH,157,No,0.8,Up,0,Lansia
+63,F,ATA,140,195,0,Normal,179,No,0.0,Up,0,Lansia
+45,F,ATA,130,234,0,LVH,175,No,0.6,Flat,0,Paruh Baya
+41,F,ATA,105,198,0,Normal,168,No,0.0,Up,0,Paruh Baya
+61,M,ASY,138,166,0,LVH,125,Yes,3.6,Flat,1,Lansia
+60,F,NAP,120,178,1,Normal,96,No,0.0,Up,0,Lansia
+59,F,ASY,174,249,0,Normal,143,Yes,0.0,Flat,1,Paruh Baya
+62,M,ATA,120,281,0,LVH,103,No,1.4,Flat,1,Lansia
+57,M,NAP,150,126,1,Normal,173,No,0.2,Up,0,Paruh Baya
+51,F,ASY,130,305,0,Normal,142,Yes,1.2,Flat,1,Paruh Baya
+44,M,NAP,120,226,0,Normal,169,No,0.0,Up,0,Paruh Baya
+60,F,TA,150,240,0,Normal,171,No,0.9,Up,0,Lansia
+63,M,TA,145,233,1,LVH,150,No,2.3,Down,0,Lansia
+57,M,ASY,150,276,0,LVH,112,Yes,0.6,Flat,1,Paruh Baya
+51,M,ASY,140,261,0,LVH,186,Yes,0.0,Up,0,Paruh Baya
+58,F,ATA,136,319,1,LVH,152,No,0.0,Up,1,Paruh Baya
+44,F,NAP,118,242,0,Normal,149,No,0.3,Flat,0,Paruh Baya
+47,M,NAP,108,243,0,Normal,152,No,0.0,Up,1,Paruh Baya
+61,M,ASY,120,260,0,Normal,140,Yes,3.6,Flat,1,Lansia
+57,F,ASY,120,354,0,Normal,163,Yes,0.6,Up,0,Paruh Baya
+70,M,ATA,156,245,0,LVH,143,No,0.0,Up,0,Lansia
+76,F,NAP,140,197,0,ST,116,No,1.1,Flat,0,Lansia
+67,F,ASY,106,223,0,Normal,142,No,0.3,Up,0,Lansia
+45,M,ASY,142,309,0,LVH,147,Yes,0.0,Flat,1,Paruh Baya
+45,M,ASY,104,208,0,LVH,148,Yes,3.0,Flat,0,Paruh Baya
+39,F,NAP,94,199,0,Normal,179,No,0.0,Up,0,Muda
+42,F,NAP,120,209,0,Normal,173,No,0.0,Flat,0,Paruh Baya
+56,M,ATA,120,236,0,Normal,178,No,0.8,Up,0,Paruh Baya
+58,M,ASY,146,218,0,Normal,105,No,2.0,Flat,1,Paruh Baya
+35,M,ASY,120,198,0,Normal,130,Yes,1.6,Flat,1,Muda
+58,M,ASY,150,270,0,LVH,111,Yes,0.8,Up,1,Paruh Baya
+41,M,NAP,130,214,0,LVH,168,No,2.0,Flat,0,Paruh Baya
+57,M,ASY,110,201,0,Normal,126,Yes,1.5,Flat,0,Paruh Baya
+42,M,TA,148,244,0,LVH,178,No,0.8,Up,0,Paruh Baya
+62,M,ATA,128,208,1,LVH,140,No,0.0,Up,0,Lansia
+59,M,TA,178,270,0,LVH,145,No,4.2,Down,0,Paruh Baya
+41,F,ATA,126,306,0,Normal,163,No,0.0,Up,0,Paruh Baya
+50,M,ASY,150,243,0,LVH,128,No,2.6,Flat,1,Paruh Baya
+59,M,ATA,140,221,0,Normal,164,Yes,0.0,Up,0,Paruh Baya
+61,F,ASY,130,330,0,LVH,169,No,0.0,Up,1,Lansia
+54,M,ASY,124,266,0,LVH,109,Yes,2.2,Flat,1,Paruh Baya
+54,M,ASY,110,206,0,LVH,108,Yes,0.0,Flat,1,Paruh Baya
+52,M,ASY,125,212,0,Normal,168,No,1.0,Up,1,Paruh Baya
+47,M,ASY,110,275,0,LVH,118,Yes,1.0,Flat,1,Paruh Baya
+66,M,ASY,120,302,0,LVH,151,No,0.4,Flat,0,Lansia
+58,M,ASY,100,234,0,Normal,156,No,0.1,Up,1,Paruh Baya
+64,F,NAP,140,313,0,Normal,133,No,0.2,Up,0,Lansia
+50,F,ATA,120,244,0,Normal,162,No,1.1,Up,0,Paruh Baya
+44,F,NAP,108,141,0,Normal,175,No,0.6,Flat,0,Paruh Baya
+67,M,ASY,120,237,0,Normal,71,No,1.0,Flat,1,Lansia
+49,F,ASY,130,269,0,Normal,163,No,0.0,Up,0,Paruh Baya
+57,M,ASY,165,289,1,LVH,124,No,1.0,Flat,1,Paruh Baya
+63,M,ASY,130,254,0,LVH,147,No,1.4,Flat,1,Lansia
+48,M,ASY,124,274,0,LVH,166,No,0.5,Flat,1,Paruh Baya
+51,M,NAP,100,222,0,Normal,143,Yes,1.2,Flat,0,Paruh Baya
+60,F,ASY,150,258,0,LVH,157,No,2.6,Flat,1,Lansia
+59,M,ASY,140,177,0,Normal,162,Yes,0.0,Up,1,Paruh Baya
+45,F,ATA,112,160,0,Normal,138,No,0.0,Flat,0,Paruh Baya
+55,F,ASY,180,327,0,ST,117,Yes,3.4,Flat,1,Paruh Baya
+41,M,ATA,110,235,0,Normal,153,No,0.0,Up,0,Paruh Baya
+60,F,ASY,158,305,0,LVH,161,No,0.0,Up,1,Lansia
+54,F,NAP,135,304,1,Normal,170,No,0.0,Up,0,Paruh Baya
+42,M,ATA,120,295,0,Normal,162,No,0.0,Up,0,Paruh Baya
+49,F,ATA,134,271,0,Normal,162,No,0.0,Flat,0,Paruh Baya
+46,M,ASY,120,249,0,LVH,144,No,0.8,Up,1,Paruh Baya
+56,F,ASY,200,288,1,LVH,133,Yes,4.0,Down,1,Paruh Baya
+66,F,TA,150,226,0,Normal,114,No,2.6,Down,0,Lansia
+56,M,ASY,130,283,1,LVH,103,Yes,1.6,Down,1,Paruh Baya
+49,M,NAP,120,188,0,Normal,139,No,2.0,Flat,1,Paruh Baya
+54,M,ASY,122,286,0,LVH,116,Yes,3.2,Flat,1,Paruh Baya
+57,M,ASY,152,274,0,Normal,88,Yes,1.2,Flat,1,Paruh Baya
+65,F,NAP,160,360,0,LVH,151,No,0.8,Up,0,Lansia
+54,M,NAP,125,273,0,LVH,152,No,0.5,Down,0,Paruh Baya
+54,F,NAP,160,201,0,Normal,163,No,0.0,Up,0,Paruh Baya
+62,M,ASY,120,267,0,Normal,99,Yes,1.8,Flat,1,Lansia
+52,F,NAP,136,196,0,LVH,169,No,0.1,Flat,0,Paruh Baya
+52,M,ATA,134,201,0,Normal,158,No,0.8,Up,0,Paruh Baya
+60,M,ASY,117,230,1,Normal,160,Yes,1.4,Up,1,Lansia
+63,F,ASY,108,269,0,Normal,169,Yes,1.8,Flat,1,Lansia
+66,M,ASY,112,212,0,LVH,132,Yes,0.1,Up,1,Lansia
+42,M,ASY,140,226,0,Normal,178,No,0.0,Up,0,Paruh Baya
+64,M,ASY,120,246,0,LVH,96,Yes,2.2,Down,1,Lansia
+54,M,NAP,150,232,0,LVH,165,No,1.6,Up,0,Paruh Baya
+46,F,NAP,142,177,0,LVH,160,Yes,1.4,Down,0,Paruh Baya
+67,F,NAP,152,277,0,Normal,172,No,0.0,Up,0,Lansia
+56,M,ASY,125,249,1,LVH,144,Yes,1.2,Flat,1,Paruh Baya
+34,F,ATA,118,210,0,Normal,192,No,0.7,Up,0,Muda
+57,M,ASY,132,207,0,Normal,168,Yes,0.0,Up,0,Paruh Baya
+64,M,ASY,145,212,0,LVH,132,No,2.0,Flat,1,Lansia
+59,M,ASY,138,271,0,LVH,182,No,0.0,Up,0,Paruh Baya
+50,M,NAP,140,233,0,Normal,163,No,0.6,Flat,1,Paruh Baya
+51,M,TA,125,213,0,LVH,125,Yes,1.4,Up,0,Paruh Baya
+54,M,ATA,192,283,0,LVH,195,No,0.0,Up,1,Paruh Baya
+53,M,ASY,123,282,0,Normal,95,Yes,2.0,Flat,1,Paruh Baya
+52,M,ASY,112,230,0,Normal,160,No,0.0,Up,1,Paruh Baya
+40,M,ASY,110,167,0,LVH,114,Yes,2.0,Flat,1,Paruh Baya
+58,M,NAP,132,224,0,LVH,173,No,3.2,Up,1,Paruh Baya
+41,F,NAP,112,268,0,LVH,172,Yes,0.0,Up,0,Paruh Baya
+41,M,NAP,112,250,0,Normal,179,No,0.0,Up,0,Paruh Baya
+50,F,NAP,120,219,0,Normal,158,No,1.6,Flat,0,Paruh Baya
+54,F,NAP,108,267,0,LVH,167,No,0.0,Up,0,Paruh Baya
+64,F,ASY,130,303,0,Normal,122,No,2.0,Flat,0,Lansia
+51,F,NAP,130,256,0,LVH,149,No,0.5,Up,0,Paruh Baya
+46,F,ATA,105,204,0,Normal,172,No,0.0,Up,0,Paruh Baya
+55,M,ASY,140,217,0,Normal,111,Yes,5.6,Down,1,Paruh Baya
+45,M,ATA,128,308,0,LVH,170,No,0.0,Up,0,Paruh Baya
+56,M,TA,120,193,0,LVH,162,No,1.9,Flat,0,Paruh Baya
+66,F,ASY,178,228,1,Normal,165,Yes,1.0,Flat,1,Lansia
+38,M,TA,120,231,0,Normal,182,Yes,3.8,Flat,1,Muda
+62,F,ASY,150,244,0,Normal,154,Yes,1.4,Flat,1,Lansia
+55,M,ATA,130,262,0,Normal,155,No,0.0,Up,0,Paruh Baya
+58,M,ASY,128,259,0,LVH,130,Yes,3.0,Flat,1,Paruh Baya
+43,M,ASY,110,211,0,Normal,161,No,0.0,Up,0,Paruh Baya
+64,F,ASY,180,325,0,Normal,154,Yes,0.0,Up,0,Lansia
+50,F,ASY,110,254,0,LVH,159,No,0.0,Up,0,Paruh Baya
+53,M,NAP,130,197,1,LVH,152,No,1.2,Down,0,Paruh Baya
+45,F,ASY,138,236,0,LVH,152,Yes,0.2,Flat,0,Paruh Baya
+65,M,TA,138,282,1,LVH,174,No,1.4,Flat,1,Lansia
+69,M,TA,160,234,1,LVH,131,No,0.1,Flat,0,Lansia
+69,M,NAP,140,254,0,LVH,146,No,2.0,Flat,1,Lansia
+67,M,ASY,100,299,0,LVH,125,Yes,0.9,Flat,1,Lansia
+68,F,NAP,120,211,0,LVH,115,No,1.5,Flat,0,Lansia
+34,M,TA,118,182,0,LVH,174,No,0.0,Up,0,Muda
+62,F,ASY,138,294,1,Normal,106,No,1.9,Flat,1,Lansia
+51,M,ASY,140,298,0,Normal,122,Yes,4.2,Flat,1,Paruh Baya
+46,M,NAP,150,231,0,Normal,147,No,3.6,Flat,1,Paruh Baya
+67,M,ASY,125,254,1,Normal,163,No,0.2,Flat,1,Lansia
+50,M,NAP,129,196,0,Normal,163,No,0.0,Up,0,Paruh Baya
+42,M,NAP,120,240,1,Normal,194,No,0.8,Down,0,Paruh Baya
+56,F,ASY,134,409,0,LVH,150,Yes,1.9,Flat,1,Paruh Baya
+41,M,ASY,110,172,0,LVH,158,No,0.0,Up,1,Paruh Baya
+42,F,ASY,102,265,0,LVH,122,No,0.6,Flat,0,Paruh Baya
+53,M,NAP,130,246,1,LVH,173,No,0.0,Up,0,Paruh Baya
+43,M,NAP,130,315,0,Normal,162,No,1.9,Up,0,Paruh Baya
+56,M,ASY,132,184,0,LVH,105,Yes,2.1,Flat,1,Paruh Baya
+52,M,ASY,108,233,1,Normal,147,No,0.1,Up,0,Paruh Baya
+62,F,ASY,140,394,0,LVH,157,No,1.2,Flat,0,Lansia
+70,M,NAP,160,269,0,Normal,112,Yes,2.9,Flat,1,Lansia
+54,M,ASY,140,239,0,Normal,160,No,1.2,Up,0,Paruh Baya
+70,M,ASY,145,174,0,Normal,125,Yes,2.6,Down,1,Lansia
+54,M,ATA,108,309,0,Normal,156,No,0.0,Up,0,Paruh Baya
+35,M,ASY,126,282,0,LVH,156,Yes,0.0,Up,1,Muda
+48,M,NAP,124,255,1,Normal,175,No,0.0,Up,0,Paruh Baya
+55,F,ATA,135,250,0,LVH,161,No,1.4,Flat,0,Paruh Baya
+58,F,ASY,100,248,0,LVH,122,No,1.0,Flat,0,Paruh Baya
+54,F,NAP,110,214,0,Normal,158,No,1.6,Flat,0,Paruh Baya
+69,F,TA,140,239,0,Normal,151,No,1.8,Up,0,Lansia
+77,M,ASY,125,304,0,LVH,162,Yes,0.0,Up,1,Lansia
+68,M,NAP,118,277,0,Normal,151,No,1.0,Up,0,Lansia
+58,M,ASY,125,300,0,LVH,171,No,0.0,Up,1,Paruh Baya
+60,M,ASY,125,258,0,LVH,141,Yes,2.8,Flat,1,Lansia
+51,M,ASY,140,299,0,Normal,173,Yes,1.6,Up,1,Paruh Baya
+55,M,ASY,160,289,0,LVH,145,Yes,0.8,Flat,1,Paruh Baya
+52,M,TA,152,298,1,Normal,178,No,1.2,Flat,0,Paruh Baya
+60,F,NAP,102,318,0,Normal,160,No,0.0,Up,0,Lansia
+58,M,NAP,105,240,0,LVH,154,Yes,0.6,Flat,0,Paruh Baya
+64,M,NAP,125,309,0,Normal,131,Yes,1.8,Flat,1,Lansia
+37,M,NAP,130,250,0,Normal,187,No,3.5,Down,0,Muda
+59,M,TA,170,288,0,LVH,159,No,0.2,Flat,1,Paruh Baya
+51,M,NAP,125,245,1,LVH,166,No,2.4,Flat,0,Paruh Baya
+43,F,NAP,122,213,0,Normal,165,No,0.2,Flat,0,Paruh Baya
+58,M,ASY,128,216,0,LVH,131,Yes,2.2,Flat,1,Paruh Baya
+29,M,ATA,130,204,0,LVH,202,No,0.0,Up,0,Muda
+41,F,ATA,130,204,0,LVH,172,No,1.4,Up,0,Paruh Baya
+63,F,NAP,135,252,0,LVH,172,No,0.0,Up,0,Lansia
+51,M,NAP,94,227,0,Normal,154,Yes,0.0,Up,0,Paruh Baya
+54,M,NAP,120,258,0,LVH,147,No,0.4,Flat,0,Paruh Baya
+44,M,ATA,120,220,0,Normal,170,No,0.0,Up,0,Paruh Baya
+54,M,ASY,110,239,0,Normal,126,Yes,2.8,Flat,1,Paruh Baya
+65,M,ASY,135,254,0,LVH,127,No,2.8,Flat,1,Lansia
+57,M,NAP,150,168,0,Normal,174,No,1.6,Up,0,Paruh Baya
+63,M,ASY,130,330,1,LVH,132,Yes,1.8,Up,1,Lansia
+35,F,ASY,138,183,0,Normal,182,No,1.4,Up,0,Muda
+41,M,ATA,135,203,0,Normal,132,No,0.0,Flat,0,Paruh Baya
+62,F,NAP,130,263,0,Normal,97,No,1.2,Flat,1,Lansia
+43,F,ASY,132,341,1,LVH,136,Yes,3.0,Flat,1,Paruh Baya
+58,F,TA,150,283,1,LVH,162,No,1.0,Up,0,Paruh Baya
+52,M,TA,118,186,0,LVH,190,No,0.0,Flat,0,Paruh Baya
+61,F,ASY,145,307,0,LVH,146,Yes,1.0,Flat,1,Lansia
+39,M,ASY,118,219,0,Normal,140,No,1.2,Flat,1,Muda
+45,M,ASY,115,260,0,LVH,185,No,0.0,Up,0,Paruh Baya
+52,M,ASY,128,255,0,Normal,161,Yes,0.0,Up,1,Paruh Baya
+62,M,NAP,130,231,0,Normal,146,No,1.8,Flat,0,Lansia
+62,F,ASY,160,164,0,LVH,145,No,6.2,Down,1,Lansia
+53,F,ASY,138,234,0,LVH,160,No,0.0,Up,0,Paruh Baya
+43,M,ASY,120,177,0,LVH,120,Yes,2.5,Flat,1,Paruh Baya
+47,M,NAP,138,257,0,LVH,156,No,0.0,Up,0,Paruh Baya
+52,M,ATA,120,325,0,Normal,172,No,0.2,Up,0,Paruh Baya
+68,M,NAP,180,274,1,LVH,150,Yes,1.6,Flat,1,Lansia
+39,M,NAP,140,321,0,LVH,182,No,0.0,Up,0,Muda
+53,F,ASY,130,264,0,LVH,143,No,0.4,Flat,0,Paruh Baya
+62,F,ASY,140,268,0,LVH,160,No,3.6,Down,1,Lansia
+51,F,NAP,140,308,0,LVH,142,No,1.5,Up,0,Paruh Baya
+60,M,ASY,130,253,0,Normal,144,Yes,1.4,Up,1,Lansia
+65,M,ASY,110,248,0,LVH,158,No,0.6,Up,1,Lansia
+65,F,NAP,155,269,0,Normal,148,No,0.8,Up,0,Lansia
+60,M,NAP,140,185,0,LVH,155,No,3.0,Flat,1,Lansia
+60,M,ASY,145,282,0,LVH,142,Yes,2.8,Flat,1,Lansia
+54,M,ASY,120,188,0,Normal,113,No,1.4,Flat,1,Paruh Baya
+44,M,ATA,130,219,0,LVH,188,No,0.0,Up,0,Paruh Baya
+44,M,ASY,112,290,0,LVH,153,No,0.0,Up,1,Paruh Baya
+51,M,NAP,110,175,0,Normal,123,No,0.6,Up,0,Paruh Baya
+59,M,NAP,150,212,1,Normal,157,No,1.6,Up,0,Paruh Baya
+71,F,ATA,160,302,0,Normal,162,No,0.4,Up,0,Lansia
+61,M,NAP,150,243,1,Normal,137,Yes,1.0,Flat,0,Lansia
+55,M,ASY,132,353,0,Normal,132,Yes,1.2,Flat,1,Paruh Baya
+64,M,NAP,140,335,0,Normal,158,No,0.0,Up,1,Lansia
+43,M,ASY,150,247,0,Normal,171,No,1.5,Up,0,Paruh Baya
+58,F,NAP,120,340,0,Normal,172,No,0.0,Up,0,Paruh Baya
+60,M,ASY,130,206,0,LVH,132,Yes,2.4,Flat,1,Lansia
+58,M,ATA,120,284,0,LVH,160,No,1.8,Flat,1,Paruh Baya
+49,M,ATA,130,266,0,Normal,171,No,0.6,Up,0,Paruh Baya
+48,M,ATA,110,229,0,Normal,168,No,1.0,Down,1,Paruh Baya
+52,M,NAP,172,199,1,Normal,162,No,0.5,Up,0,Paruh Baya
+44,M,ATA,120,263,0,Normal,173,No,0.0,Up,0,Paruh Baya
+56,F,ATA,140,294,0,LVH,153,No,1.3,Flat,0,Paruh Baya
+57,M,ASY,140,192,0,Normal,148,No,0.4,Flat,0,Paruh Baya
+67,M,ASY,160,286,0,LVH,108,Yes,1.5,Flat,1,Lansia
+53,F,NAP,128,216,0,LVH,115,No,0.0,Up,0,Paruh Baya
+52,M,NAP,138,223,0,Normal,169,No,0.0,Up,0,Paruh Baya
+43,M,ASY,132,247,1,LVH,143,Yes,0.1,Flat,1,Paruh Baya
+52,M,ASY,128,204,1,Normal,156,Yes,1.0,Flat,1,Paruh Baya
+59,M,TA,134,204,0,Normal,162,No,0.8,Up,1,Paruh Baya
+64,M,TA,170,227,0,LVH,155,No,0.6,Flat,0,Lansia
+66,F,NAP,146,278,0,LVH,152,No,0.0,Flat,0,Lansia
+39,F,NAP,138,220,0,Normal,152,No,0.0,Flat,0,Muda
+57,M,ATA,154,232,0,LVH,164,No,0.0,Up,1,Paruh Baya
+58,F,ASY,130,197,0,Normal,131,No,0.6,Flat,0,Paruh Baya
+57,M,ASY,110,335,0,Normal,143,Yes,3.0,Flat,1,Paruh Baya
+47,M,NAP,130,253,0,Normal,179,No,0.0,Up,0,Paruh Baya
+55,F,ASY,128,205,0,ST,130,Yes,2.0,Flat,1,Paruh Baya
+35,M,ATA,122,192,0,Normal,174,No,0.0,Up,0,Muda
+61,M,ASY,148,203,0,Normal,161,No,0.0,Up,1,Lansia
+58,M,ASY,114,318,0,ST,140,No,4.4,Down,1,Paruh Baya
+58,F,ASY,170,225,1,LVH,146,Yes,2.8,Flat,1,Paruh Baya
+58,M,ATA,125,220,0,Normal,144,No,0.4,Flat,0,Paruh Baya
+56,M,ATA,130,221,0,LVH,163,No,0.0,Up,0,Paruh Baya
+56,M,ATA,120,240,0,Normal,169,No,0.0,Down,0,Paruh Baya
+67,M,NAP,152,212,0,LVH,150,No,0.8,Flat,1,Lansia
+55,F,ATA,132,342,0,Normal,166,No,1.2,Up,0,Paruh Baya
+44,M,ASY,120,169,0,Normal,144,Yes,2.8,Down,1,Paruh Baya
+63,M,ASY,140,187,0,LVH,144,Yes,4.0,Up,1,Lansia
+63,F,ASY,124,197,0,Normal,136,Yes,0.0,Flat,1,Lansia
+41,M,ATA,120,157,0,Normal,182,No,0.0,Up,0,Paruh Baya
+59,M,ASY,164,176,1,LVH,90,No,1.0,Flat,1,Paruh Baya
+57,F,ASY,140,241,0,Normal,123,Yes,0.2,Flat,1,Paruh Baya
+45,M,TA,110,264,0,Normal,132,No,1.2,Flat,1,Paruh Baya
+68,M,ASY,144,193,1,Normal,141,No,3.4,Flat,1,Lansia
+57,M,ASY,130,131,0,Normal,115,Yes,1.2,Flat,1,Paruh Baya
+57,F,ATA,130,236,0,LVH,174,No,0.0,Flat,1,Paruh Baya
+38,M,NAP,138,175,0,Normal,173,No,0.0,Up,0,Muda
