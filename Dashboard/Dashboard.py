@@ -9,13 +9,7 @@ sns.set(style='dark')
 # jantung_data = pd.read_csv("Data_Bersih.csv")
 jantung_data = pd.read_csv("./Dashboard/Data_Bersih.csv")
 
-
-
-
-
-    # Menambahkan logo perusahaan
-
-
+ 
     # Menambahkan judul dan subjudul
 st.title('Proyek Akhir: Analisis Data jantung :heart:')
 st.header('Nama:') # Ini adalah header utama
