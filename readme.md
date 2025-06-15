@@ -21,8 +21,11 @@ Kaggle Dataset Penyakit Jantung [(Link Download)](https://www.kaggle.com/dataset
 
 ## Penggunaan
 
-Ketika Anda ingin menjalankan Dashboard secara lokal, ketik perintah berikut di terminal:
+1. Ketika Anda ingin menjalankan Dashboard secara lokal, ketik perintah berikut di terminal:
 
-```bash
+```shell
 python -m streamlit run Dashboard/Dashboard.py
+```
 
+2. Melakukan Akses secara Cloud (online):
+[Project Data Analytics](https://kwyto-analisis-data-penyakit-jantung--dashboarddashboard-ic6fn4.streamlit.app/)
