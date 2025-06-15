@@ -19,9 +19,9 @@ jantung_data = pd.read_csv("./Dashboard/Data_Bersih.csv")
     # Menambahkan judul dan subjudul
 st.title('Proyek Akhir: Analisis Data jantung :heart:')
 st.header('Nama:') # Ini adalah header utama
-st.write('M. Arief Wiguna')
-st.write('Bagas')
-st.write('Damai')
+st.write('M Arief Wiguna | 231712084')
+st.write('Muhammad Bagas Dwi Syahputra | 231712074')
+st.write('Naufal Alfatih Amriansyah | 231712105')
 
 st.header('Proyek Akhir: Analisis Data jantung :heart:')
 st.subheader('1. Distribusi Kolesterol Berdasarkan Kategori Usia')
