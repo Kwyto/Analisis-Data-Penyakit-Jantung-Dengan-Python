@@ -1,8 +1,9 @@
 # "Belajar Data Penyakit jantung dengan Python"
 
-M Arief Wiguna | 231712084
-Muhammad Bagas Dwi Syahputra | 231712074
+M Arief Wiguna | 231712084<br>
+Muhammad Bagas Dwi Syahputra | 231712074<br>
 Damai Serafinus Nainggolan | 231712089
+
 ## Project Data Analytics
 
  Repositori yang berupa projek analis data ,yang dibuat dengan menggunakan **Streamlit** <img src="https://user-images.githubusercontent.com/7164864/217935870-c0bc60a3-6fc0-4047-b011-7b4c59488c91.png" alt="Streamlit logo"></img>
