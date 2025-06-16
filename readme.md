@@ -1,4 +1,4 @@
-# Submission Dicoding "Belajar Data Penyakit jantung dengan Python"
+# "Belajar Data Penyakit jantung dengan Python"
 
 
 ## Project Data Analytics
